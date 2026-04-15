@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XSX on sdhizumi</title>
+    <link>https://sdhizumi.com/platform/xsx/</link>
+    <description>Recent content in XSX on sdhizumi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <copyright>© sdhizumi</copyright>
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://sdhizumi.com/platform/xsx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradius Origins</title>
+      <link>https://www.konami.com/games/gradius/us/en/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/works/gradiusorigins/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Metal Gear Solid (Master Collection Version)</title>
+      <link>https://www.konami.com/mg/mc/us/en/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/works/mgscollectionmgs/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Metal Gear Solid Master Collection Vol.1 Bonus Content</title>
+      <link>https://www.konami.com/mg/mc/us/en/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/works/mgscollectionbonus/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+  </channel>
+</rss>

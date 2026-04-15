@@ -1,0 +1,436 @@
+/* import fonts */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&display=swap');
+
+html,
+body {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    padding: 0;
+
+}
+
+body {
+    background-color: #121212;
+    /* this is commented out because there is no background image */
+    /* background: url('../img/bg.png'); */
+    /* Center and scale the image nicely */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; */
+    letter-spacing: 1px;
+    vertical-align: middle;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "IBM Plex Sans JP", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+}
+
+#main-content {
+    margin: 0 auto;
+    padding: 80px 40px;
+    /* sets the max width of the body text */
+    max-width: 800px;
+
+}
+
+#main-content img:not(.gallery-img) {
+    display: block;
+    margin: auto;
+    max-width: 70%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b,
+a {
+    color: #818284;
+    transition: color 0.25s ease;
+
+}
+
+small {
+    color: #818284;
+}
+
+.copyright {
+    color: #ffffff !important;
+}
+
+a:hover {
+    color: #F8A809;
+    background-color: #ffffff00;
+}
+
+/* changes how date is displayed */
+p.byline {
+    color: #818284;
+    font-style: normal;
+}
+
+/* back button */
+div#back-button {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+div#back-button a {
+    text-decoration: none;
+    font-size: 24px;
+}
+
+footer {
+    padding: 18px;
+    background: #F8A809;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+    /* letter-spacing: 1.4px; */
+}
+
+h1 {
+    color: #F8A809;
+}
+
+/* header bar */
+div#header {
+    background-color: #F8A809;
+    padding: 20px 10px;
+    overflow: auto;
+    vertical-align: middle;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+div#header a {
+    color: #121212;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0px 10px;
+    /* transforms navigation link text to uppercase */
+    text-transform: uppercase;
+}
+
+div#header a:hover {
+    color: #ffffff;
+}
+
+/* this is for the logo on the left */
+div#header img {
+    height: 60px;
+    vertical-align: middle;
+}
+
+/* hide mobile links unless small screen */
+div#navlinks-mobile {
+    display: none;
+}
+
+/* changes for small screen */
+@media screen and (max-width: 600px) {
+
+    /* change header size */
+    div#header {
+        padding: 15px 15px;
+    }
+
+    /* reduce padding if hamburger menu open */
+    div#header:has(div#navlinks-mobile details[open]) {
+        padding: 15px 15px 0px;
+    }
+
+    div#header a {
+        padding: 0px;
+        font-size: 18px;
+    }
+
+    div#header img {
+        height: 40px;
+    }
+
+    /* hide regular links */
+    div#navlinks-regular {
+        display: none;
+    }
+
+    /* show mobile links */
+    div#navlinks-mobile {
+        display: block;
+        flex-basis: 100%;
+    }
+
+    /* hide default details arrow */
+    div#navlinks-mobile details > summary {
+        list-style-type: none;
+    }
+
+    div#navlinks-mobile details > summary::-webkit-details-marker {
+        display: none;
+    }
+
+    /* add hamburger menu icon */
+    div#navlinks-mobile details > summary::after {
+        content: '';
+        width: 40px;
+        height: 40px;
+        mask-image: url('/img/list.svg');
+        mask-position: center center;
+        mask-repeat: no-repeat;
+        mask-size: contain;
+        background-color: #121212;
+        float: right;
+        text-align: right;
+    }
+
+    div#navlinks-mobile details[open] > summary::after {
+        content: '';
+        mask-image: url('/img/list-down.svg');
+    }
+
+    /* align links to the left */
+    div#navlinks-mobile details ul {
+        text-align: right;
+        list-style-type: none;
+    }
+
+    /* add padding to top/bottom of links */
+    div#navlinks-mobile details ul li {
+        padding-bottom: 5px;
+    }
+
+    /* less padding before main content when small */
+    #main-content {
+        padding: 20px 40px;
+
+    }
+
+    /* full size image */
+    #main-content img {
+        max-width: 100%;
+    }
+
+}
+
+/* footer links */
+
+div.footer-links {
+    padding-bottom: 20px;
+}
+
+div.footer-links a {
+    color: #121212;
+    /* remove underline */
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+div.footer-links a:hover {
+    color: #FFFFFF;
+}
+
+/* social links */
+
+div.social-links ul {
+    /* remove list icon */
+    list-style-type: none;
+    /* remove extra space */
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    padding-inline-start: 0px;
+    display: flex;
+}
+
+div.social-links li {
+    padding-right: 30px;
+}
+
+div.social-links a {
+    color: #ffffff;
+    /* remove underline */
+    text-decoration: none;
+    font-size: 42px;
+}
+
+div.social-links a:hover {
+    color: #F8A809;
+}
+
+/* latest works gallery */
+
+div.gallery {
+    display: block;
+    width: 100%;
+}
+
+div.gallery ul {
+    /* remove list icon */
+    list-style-type: none;
+    /* remove extra space */
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    padding-inline-start: 0px;
+    /* display in centred grid */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+div.gallery ul li {
+    /* add space between items */
+    padding: 10px;
+    position: relative;
+    text-align: center;
+}
+
+/* resize gallery img */
+div.gallery img {
+    width: 240px;
+    height: 240px;
+    object-fit: cover;
+}
+
+/* change colour when hovered */
+div.gallery li:hover .gallery-title {
+    background: #121212;
+    transition-property: background;
+    transition-duration: 0.3s;
+}
+
+.gallery-title {
+    /* centres the text */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    /* translucent bg for text */
+    background: #12121280;
+    padding: 10px 0px;
+    transition-property: background;
+    transition-duration: 0.3s;
+}
+
+/* gallery links */
+.gallery-title a {
+    color: #ffffff;
+    /* remove underline */
+    text-decoration: none;
+    /* transforms navigation link text to uppercase */
+    text-transform: uppercase;
+    max-width: 80%;
+    display: inline-block;
+}
+
+/* works list */
+
+div.blog-tags a {
+    /* color: #ffffff; */
+    /* remove underline */
+    text-decoration: none;
+}
+
+div.blog-tags a:hover {
+    color: #F8A809;
+}
+
+div.blog-posts a {
+    /* remove underline */
+    text-decoration: none;
+    color: #F8A809;
+}
+
+div.blog-posts a:hover {
+    color: #818284;
+}
+
+hr {
+    border-color: #818284;
+    /* spacing */
+    margin-block-start: 2px;
+    margin-block-end: 4px;
+}
+
+.pagination ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+.pagination li {
+    display: inline;
+    text-align: center;
+}
+
+.pagination li:not(last-child) {
+    padding-right: 8px;
+}
+
+.pagination li.active a {
+    color: #F8A809;
+    font-weight: bold;
+}
+
+.pagination li a {
+    text-decoration: none;
+}
+
+/* embed links */
+a.embed-link {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+a.embed-link {
+    color: #F8A809;
+}
+
+a.embed-link:hover {
+    color: #818284;
+}
+
+.embed-link div {
+    display: inline;
+    vertical-align: middle;
+}
+
+/* text colour when highlighted */
+::-moz-selection {
+    background: #818284;
+    color: #121212;
+}
+
+::selection {
+    background: #818284;
+    color: #121212;
+}
+
+/* simple, bootstrap icons */
+.si,
+.bi {
+    vertical-align: middle;
+}

@@ -1,10 +1,1117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>sdhizumi&#39;s website</title>
+    <title>sdhizumi</title>
     <link>https://sdhizumi.com/ja/</link>
-    <description>Recent content on sdhizumi&#39;s website</description>
+    <description>Recent content on sdhizumi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sdhizumi.com/ja/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-JP</language>
+    <copyright>© sdhizumi</copyright>
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://sdhizumi.com/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thirty-Fifteen</title>
+      <link>https://sdhizumi.com/ja/works/thirtyfifteen/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/thirtyfifteen/</guid>
+      <description>[RELEASE] M3-2025 Autumn - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/thirtyfifteen.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A House album going through the night.&lt;/p&gt;&#xA;&lt;p&gt;This is a chill-out feeling Deep House and Garage House album. It made with FL Studio, M8 and KORG Gadget 3.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/thirty-fifteen&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=3483794401/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>ショートショート異空間333歩</title>
+      <link>https://www.youtube.com/@333po</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/yoshifumiannjingles/</guid>
+      <description>[COMMISSION] Compose - &lt;p&gt;I composed jingles for this YouTube channel on commission.&lt;/p&gt;</description>
+      
+    </item>
+    <item>
+      <title>Gradius Origins</title>
+      <link>https://www.konami.com/games/gradius/us/en/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/gradiusorigins/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Salamander III Original Soundtrack</title>
+      <link>https://www.konami.com/games/gradius/jp/ja/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/salamanderiiiost/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Operation Night Strikers</title>
+      <link>https://www.taito.co.jp/opstrikers</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/operationnightstrikers/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Paint Your Magic! -Theme of MAGI-CAN!-</title>
+      <link>https://project-magican.bandcamp.com/album/paint-your-magic-theme-of-magi-can</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/paintyourmagicthemeofmagican/</guid>
+      <description>[COMMISSION] Remix, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Pixel Art Park 8</title>
+      <link>https://pixelartpark.com/events/pap8/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/pixelartpark8/</guid>
+      <description>[LIVE/DJ] Project Magic Canvas Live Performance</description>
+      
+    </item>
+    <item>
+      <title>re;double-think</title>
+      <link>https://twvt.me/re_doublethink</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/redoublethink/</guid>
+      <description>[LIVE/DJ] DJ Set</description>
+      
+    </item>
+    <item>
+      <title>MAGI-CAN! Pico2 THE BEST!</title>
+      <link>https://mgcd-006.tumblr.com/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/magicanpico2thebest/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Magic Canvas Gallery -PINK-</title>
+      <link>https://mgcd-007.tumblr.com/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/magiccanvasgallerypink/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Changeable Guardian ESTIQUE Original Soundtrack</title>
+      <link>https://sweeprecord.com/srin-1197/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/estiqueost/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>The Story of MIDIport</title>
+      <link>https://technomarina.bandcamp.com/album/the-story-of-midiport</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/thestoryofmidiport/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>Changeable Guardian ESTIQUE</title>
+      <link>https://www.cathuitrading.com/?page_id=2563</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/estique/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>Marron&#39;s Day Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/marronsdayost/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/marronsdayost/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/marronsday.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Original soundtrack for Marron&amp;apos;s Day, a silly retro adventure game where you&amp;apos;re a bunny. The soundtrack was recorded straight from retro hardware!&lt;/p&gt;&#xA;&lt;p&gt;Explore the town, run errands for your animal friends, and don&amp;apos;t let anyone catch you swiping the carrots from the garden (again)!&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/marrons-day-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=721564839/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34;&#xA;     href=&#39;https://store.steampowered.com/app/2640690/Marrons_Day_Soundtrack/&#39;&gt;&lt;i&#xA;          class=&#34;si si-steam&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Steam&lt;/div&gt;&#xA;&lt;/a&gt;&#xA;&lt;iframe src=&#34;https://store.steampowered.com/widget/2640690&#34;&#xA;     frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;190&#34;&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>Pico*2 Magic Canvas! 3</title>
+      <link>https://twvt.me/MAGICAN03</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/pico2magiccanvasevent3/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>you&#39;re just imagining it SOUNDTRACK</title>
+      <link>https://sdhizumi.com/ja/works/yourejustimaginingitsoundtrack/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/yourejustimaginingitsoundtrack/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/yourejustimaginingit.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The original soundtrack for you&amp;apos;re just imagining it, a chronic illness simulator.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/youre-just-imagining-it-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=480777077/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34;&#xA;     href=&#39;https://store.steampowered.com/app/3224500/youre_just_imagining_it_soundtrack/&#39;&gt;&lt;i&#xA;          class=&#34;si si-steam&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Steam&lt;/div&gt;&#xA;&lt;/a&gt;&#xA;&lt;iframe src=&#34;https://store.steampowered.com/widget/3224500&#34;&#xA;     frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;190&#34;&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>sdhizumi at M8 Fest -Live Mix-</title>
+      <link>https://sdhizumi.com/ja/works/sdhizumiatm8festlivemix/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/sdhizumiatm8festlivemix/</guid>
+      <description>[RELEASE] M3-2024 Autumn - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/sdhizumiatm8festlivemix.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;M8 Fest was held on 2024/09/07 at Circus Tokyo. I was really enjoyed this gig.&lt;br&gt;&#xA;This album has Live Mix that I performed on M8 Fest (rerecording) with unmixed versions each others.&lt;/p&gt;&#xA;&lt;p&gt;I used 2 units of M8Tracker for that gig but 1 unit is made by myself that based on M8Headless. You can see on the album cover. I called this by H4NDM4T3.&lt;br&gt;&#xA;This unit is very memorable as my own memory of this event.&lt;/p&gt;</description>
+      
+    </item>
+    <item>
+      <title>Ryzeen/Ryzeen (Super Locomotive Ver.)</title>
+      <link>http://www.cinemakan.com/archives/1270/ctn39</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/ryzeen-single/</guid>
+      <description>[IN-HOUSE] Arrange</description>
+      
+    </item>
+    <item>
+      <title>To Be Kontinued Vol.11</title>
+      <link>http://www.plastictheater.com/schedule/2517.html</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/tobekontinued11/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>M8 FEST COMPILATION</title>
+      <link>https://tbkgao.bandcamp.com/album/m8-fest-compilation</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/m8festcompilation/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>Technosoft Music Collection - THUNDER FORCE V -</title>
+      <link>https://wave-master.com/ent/tf5/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/technosoftmusiccollection-tf5/</guid>
+      <description>[IN-HOUSE] Arrange</description>
+      
+    </item>
+    <item>
+      <title>Traceback</title>
+      <link>https://sdhizumi.com/ja/works/traceback/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/traceback/</guid>
+      <description>[RELEASE] M3-2024 Spring - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/traceback.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;M8 Fest was held on 2024/09/07 at Circus Tokyo. I was really enjoyed this gig.&lt;br&gt;&#xA;This album has Live Mix that I performed on M8 Fest (rerecording) with unmixed versions each others.&lt;/p&gt;&#xA;&lt;p&gt;I used 2 units of M8Tracker for that gig but 1 unit is made by myself that based on M8Headless. You can see on the album cover. I called this by H4NDM4T3.&lt;br&gt;&#xA;This unit is very memorable as my own memory of this event.&lt;/p&gt;</description>
+      
+    </item>
+    <item>
+      <title>double-think</title>
+      <link>https://twvt.me/doublethink</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/doublethink/</guid>
+      <description>[LIVE/DJ] DJ Set</description>
+      
+    </item>
+    <item>
+      <title>dodonpachi DAI-OU-JOU Re:incarnation</title>
+      <link>https://m2stg.com/daioujou/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dodonpachidaioujoureincarnation/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>dodonpachi DAI-OU-JOU Re:incarnation Soundtrack</title>
+      <link>https://m2stg.com/daioujou/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dodonpachidaioujoureincarnationost/</guid>
+      <description>[IN-HOUSE] Arrange, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Refrain</title>
+      <link>https://scythe1005.bandcamp.com/album/refrain</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/scythe-refrain/</guid>
+      <description>[COMMISSION] Mastering</description>
+      
+    </item>
+    <item>
+      <title>The Haunted!</title>
+      <link>https://mgsp-004.tumblr.com/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/thehaunted/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Metal Gear Solid (Master Collection Version)</title>
+      <link>https://www.konami.com/mg/mc/us/en/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/mgscollectionmgs/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Metal Gear Solid Master Collection Vol.1 Bonus Content</title>
+      <link>https://www.konami.com/mg/mc/us/en/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/mgscollectionbonus/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>PURE MIDI Volume 2</title>
+      <link>https://tbkgao.bandcamp.com/album/pure-midi-volume-2</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/puremidivolume2/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>Ray&#39;z Arcade Chronology</title>
+      <link>https://www.taito.co.jp/rayzarcadechronology</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/rayzarcadechronology/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Affected Video Game Nerd (2023/07/22)</title>
+      <link>https://x.com/sdhizumi/status/1681833756926304259</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/avgn0722/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Pi X Chip</title>
+      <link>https://novtos.bandcamp.com/album/pi-x-chip</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/pixchip/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>Handhelds&#39; Meetup!</title>
+      <link>https://x.com/aka_obi/status/1669902685670178818</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/handheldsmeetup/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Magic Canvas Gallery -GREEN-</title>
+      <link>https://mgcd-005.tumblr.com/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/magiccanvasgallerygreen/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Tiny Bleeps</title>
+      <link>https://sdhizumi.com/ja/works/tinybleeps/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/tinybleeps/</guid>
+      <description>[RELEASE] M3-2023 Spring - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/tinybleeps.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Experience minimal bleep loop music made with source files limited to 1266 bytes!&lt;/p&gt;&#xA;&lt;p&gt;This album was made with FAMIC on USB.&lt;/p&gt;&#xA;&lt;p&gt;The source files (MML) are included as a bonus for people who purchase the album. (They are not included for single track purchases.)&lt;/p&gt;&#xA;&lt;p&gt;What is FAMIC on USB?&lt;/p&gt;&#xA;&lt;p&gt;FAMIC on USB is a melody IC that can be written in MML. It was created by Prioris LLC. in Japan. It has sine, pulse, triangle, saw, 1-bit noise, and wave ram sound generators. Like with the FC/NES and GB, you can write any MML sequences up to the 1266-byte limit.&lt;/p&gt;</description>
+      
+    </item>
+    <item>
+      <title>SEGA Archives - M2 Music Memorial -</title>
+      <link>https://wave-master.com/ent/sega-m2/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaarchivesm2musicmemorial/</guid>
+      <description>[IN-HOUSE] Arrange</description>
+      
+    </item>
+    <item>
+      <title>電気ショック Vol.02</title>
+      <link>https://x.com/SaraiTakemoto/status/1632020964182740999</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/denkishock2/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>A TAVERN FOR TEA Original Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/atavernforteaost/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/atavernforteaost/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/atavernfortea.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The original soundtrack for A TAVERN FOR TEA, a fantasy tea-brewing adventure.&lt;/p&gt;&#xA;&lt;p&gt;Play as the owner of a fantasy tavern and brew the tea that your customers didn&amp;apos;t know they needed.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/a-tavern-for-tea-original-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=3463651494/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34;&#xA;     href=&#39;https://store.steampowered.com/app/2340450/A_TAVERN_FOR_TEA_Soundtrack/&#39;&gt;&lt;i&#xA;          class=&#34;si si-steam&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Steam&lt;/div&gt;&#xA;&lt;/a&gt;&#xA;&lt;iframe src=&#34;https://store.steampowered.com/widget/2340450&#34;&#xA;     frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;190&#34;&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>R-GEAR</title>
+      <link>https://store.playstation.com/ja-jp/product/JP0305-CUSA34113_00-0446506946508986/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/rgear/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Ray&#39;z Arcade Chronology</title>
+      <link>https://www.taito.co.jp/rayzarcadechronology</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/rayzarcadechronology/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Ray&#39;z Music Live -STRAHL -</title>
+      <link>https://www.taito.co.jp/rayzarcadechronology</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/rayzmusiclivestrahl/</guid>
+      <description>[IN-HOUSE] Sound Editor</description>
+      
+    </item>
+    <item>
+      <title>TOBOX Release Party (Tokyo)</title>
+      <link>https://tobokegao.github.io/post/tobox-release-party/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/toboxreleaseparty-tokyo/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Internet Chiptune Maniac Vol.2</title>
+      <link>https://www.youtube.com/watch?v=kDcRwwbebw8</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/internetchiptunemaniac1/</guid>
+      <description>[LIVE/DJ] Live Set (Streaming)</description>
+      
+    </item>
+    <item>
+      <title>Magic Canvas Gallery -YELLOW-</title>
+      <link>https://mgcd-004.tumblr.com/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/magiccanvasgalleryyellow/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Selected LSDJ Works</title>
+      <link>https://sdhizumi.com/ja/works/selectedlsdjworks/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/selectedlsdjworks/</guid>
+      <description>[RELEASE] M3-2022 Autumn - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/selectedlsdjworks.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is my first best album made with LSDj.&lt;/p&gt;&#xA;&lt;p&gt;I released my first LSDj track in 2014. Since then I have released 9 original albums, 1 collection of reworks, and 1 mixtape.&lt;/p&gt;&#xA;&lt;p&gt;This album consists of selected tracks from those albums, tracks released on other labels, and a new track.&lt;/p&gt;&#xA;&lt;p&gt;Get raving with bleeps!&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/selected-lsdj-works&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=2816787916/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>PURE MIDI Volume 1</title>
+      <link>https://tbkgao.bandcamp.com/album/pure-midi-volume-1</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/puremidivolume1/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>a pet shop after dark Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/apetshopafterdarkost/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/apetshopafterdarkost/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/apetshopafterdark.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The original soundtrack for a pet shop after dark, a horror point-and-click adventure game.&lt;/p&gt;&#xA;&lt;p&gt;Water the plants, feed the pets, and DON&amp;apos;T turn off the lights.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/a-pet-shop-after-dark-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=1720916631/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34;&#xA;     href=&#39;https://store.steampowered.com/app/1940570/a_pet_shop_after_dark_Soundtrack/&#39;&gt;&lt;i&#xA;          class=&#34;si si-steam&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Steam&lt;/div&gt;&#xA;&lt;/a&gt;&#xA;&lt;iframe src=&#34;https://store.steampowered.com/widget/1940570&#34;&#xA;     frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;190&#34;&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>Cool Chiptune VS Cute Chiptune Battle Complation 2 -Cool side-</title>
+      <link>https://novtos.bandcamp.com/album/vs-2-cool-side</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/chipvscutecool2/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>A HERO AND A GARDEN Original Soundtrack and Remix</title>
+      <link>https://sdhizumi.com/ja/works/aheroandagardenostremix/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/aheroandagardenostremix/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/aheroandagarden.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The original soundtrack and remix album for A HERO AND A GARDEN, a gardening visual novel and clicker game. Play as a fairytale hero and help him garden, since saving the princess didn&amp;apos;t go that well.&lt;/p&gt;&#xA;&lt;p&gt;Harvest berries, complete requests, and repair the town (that you destroyed)!&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/a-hero-and-a-garden-original-soundtrack-and-remix&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=90328703/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34;&#xA;     href=&#39;https://store.steampowered.com/app/1915100/A_HERO_AND_A_GARDEN_Original_Soundtrack_and_Remix/&#39;&gt;&lt;i&#xA;          class=&#34;si si-steam&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Steam&lt;/div&gt;&#xA;&lt;/a&gt;&#xA;&lt;iframe src=&#34;https://store.steampowered.com/widget/1915100&#34;&#xA;     frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;190&#34;&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>BLEEP&#43;BIT TECHNIQUE!</title>
+      <link>https://mgsp-003.tumblr.com/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/bleepbittechnique/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>ALESTE COLLECTION - Music Album -</title>
+      <link>https://wave-master.com/ent/aleste-collection/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/alestecollectionmusicalbum/</guid>
+      <description>[IN-HOUSE] Compose, Technical Support</description>
+      
+    </item>
+    <item>
+      <title>G-Darius HD</title>
+      <link>https://darius.jp/revelation/index.html</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/gdariushd/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Mima and Nina&#39;s Chocolate Workshop Original Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/mimaandninaschocolateworkshopost/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/mimaandninaschocolateworkshopost/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/mimaandninaschocolateworkshop.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Original soundtrack for the visual novel Mima and Nina&amp;apos;s Chocolate Workshop&lt;/p&gt;&#xA;&lt;p&gt;This soundtrack is&amp;#46;&amp;#46;&amp;#46;exciting, but a little bittersweet? I especially put that mood in the music for the school (Tr.4).&lt;/p&gt;&#xA;&lt;p&gt;Mima and Nina&amp;apos;s Chocolate Workshop is a chocolate-making visual novel. Who will you give your chocolates to this Valentine&amp;apos;s Day?&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/mima-and-ninas-chocolate-workshop-original-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=3825386228/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>Chiptune Dining</title>
+      <link>https://novtos.bandcamp.com/album/--2</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/chiptunedining/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>Darius Cozmic Collection Arcade</title>
+      <link>https://darius.jp/cozmic/index.html</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dariuscozmiccollectionarcade/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>MAGI-CAN!&#39;s Holiday</title>
+      <link>https://mgsp-002.tumblr.com/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/magicansholiday/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>DANGUN FEVERON ORIGINAL/ARRANGED SOUNDTRACK</title>
+      <link>https://limited-run-games.myshopify.com/products/limited-run-398-dangun-feveron-collectors-edition-ps4</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dangunfeveronoriginalarrangedost/</guid>
+      <description>[IN-HOUSE] Mastering</description>
+      
+    </item>
+    <item>
+      <title>Pterochip</title>
+      <link>https://ptesquad.bandcamp.com/album/pterochip</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/pterochip/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>D4DJ Groovy Mix</title>
+      <link>https://twitter.com/D4DJ_gm/status/1442413709784064001</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/d4djgroovymix-rtype/</guid>
+      <description>[IN-HOUSE] Arrange (R-TYPE BGM)</description>
+      
+    </item>
+    <item>
+      <title>Internet Chiptune Maniac Vol.1</title>
+      <link>https://www.youtube.com/watch?v=Co174_W5Ka0</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/internetchiptunemaniac1/</guid>
+      <description>[LIVE/DJ] Live Set (Streaming)</description>
+      
+    </item>
+    <item>
+      <title>Light Chiptune VS Dark Chiptune Battle Complation 2 -Dark Side-</title>
+      <link>https://novtos.bandcamp.com/album/vs-2-dark-side</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/chipvslightdark2/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>A YEAR OF SPRINGS Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/ayearofspringsost/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/ayearofspringsost/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/ayearofsprings.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Original soundtrack for the remastered visual novel trilogy A YEAR OF SPRINGS.&lt;/p&gt;&#xA;&lt;p&gt;Experience the stories of Haru, Erika, and Manami in A YEAR OF SPRINGS, a visual novel trilogy about a trio of friends navigating their feelings of love, connection, and just wanting to belong.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/a-year-of-springs-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=3160850356/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34;&#xA;     href=&#39;https://store.steampowered.com/app/1688920/A_YEAR_OF_SPRINGS_Soundtrack/&#39;&gt;&lt;i&#xA;          class=&#34;si si-steam&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Steam&lt;/div&gt;&#xA;&lt;/a&gt;&#xA;&lt;iframe src=&#34;https://store.steampowered.com/widget/1688920&#34;&#xA;     frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;190&#34;&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>Famicom Detective Club: The Missing Heir</title>
+      <link>https://www.nintendo.com/jp/switch/aw3ca/index.html</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/famicomtanteiclub1switch/</guid>
+      <description>[IN-HOUSE] Recording (Original Sound Mixing)</description>
+      
+    </item>
+    <item>
+      <title>Famicom Detective Club:Girl Who Stands Behind</title>
+      <link>https://www.nintendo.com/jp/switch/aw3ca/index.html</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/famicomtanteiclub2switch/</guid>
+      <description>[IN-HOUSE] Recording (Original Sound Mixing)</description>
+      
+    </item>
+    <item>
+      <title>Magic Canvas Gallery -BLUE-</title>
+      <link>https://mgcd-003.tumblr.com/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/magiccanvasgalleryblue/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Darius Cozmic Revelation</title>
+      <link>https://darius.jp/revelation/index.html</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dariuscozmicrevelation/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Game Gear Micro White</title>
+      <link>https://m2stg.com/aleste-collection/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/ggmicrowhite/</guid>
+      <description>[IN-HOUSE] Compose</description>
+      
+    </item>
+    <item>
+      <title>Magic Canvas Gallery -RED-</title>
+      <link>https://mgcd-002.tumblr.com/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/magiccanvasgalleryred/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Internet Chiptune Maniac Vol.0</title>
+      <link>https://www.youtube.com/watch?v=mszP0U4Yuz8</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/internetchiptunemaniac1/</guid>
+      <description>[LIVE/DJ] Live Set (Streaming)</description>
+      
+    </item>
+    <item>
+      <title>Get Right Down</title>
+      <link>https://sdhizumi.com/ja/works/getrightdown/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/getrightdown/</guid>
+      <description>[RELEASE] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/getrightdown.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Inspired by KORG Gadget 2 Plugins&amp;#46;&amp;#46;&amp;#46; One day after I bought the Gadget, I already had a prototype for this song.&lt;/p&gt;&#xA;&lt;p&gt;In the Original Mix, I have used the Gadget&amp;apos;s synth/samplers except for the bass and some samples on Reaper.&#xA;(I used Abu Dhabi, Darwin, Glasgow, Memphis, Montpellier, Lexington.)&lt;/p&gt;&#xA;&lt;p&gt;Early Freeform Mix is a freestyle self-remix, was made with Original Mix&amp;apos;s samples on FL Studio.&lt;/p&gt;&#xA;&lt;p&gt;Enjoy!&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/get-right-down-single&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=572023967/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>a letter of challenge Original Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/aletterofchallengeost/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/aletterofchallengeost/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/aletterofchallenge.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Original soundtrack for the battle game (?) &amp;amp; visual novel &amp;quot;a letter of challenge&amp;quot;.&lt;/p&gt;&#xA;&lt;p&gt;This time I tried to make a semi-fantastic(?) music.&lt;br&gt;&#xA;It was a bit of a challenge&amp;#46;&amp;#46;&amp;#46;but I hope you enjoyed it.&lt;/p&gt;&#xA;&lt;p&gt;A LETTER OF CHALLENGE is a battle game (?) &amp;amp; visual novel where you play as a magical girl (with a magical guardian, of course!).&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/a-letter-of-challenge-original-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=2379592283/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>Hikikomori</title>
+      <link>https://ptesquad.bandcamp.com/album/hikikomori</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/hikikomori/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>TOMATO CLINIC Original Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/tomatoclinicoriginalsoundtrack/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/tomatoclinicoriginalsoundtrack/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/tomatoclinic.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Original soundtrack for the visual novel &amp;quot;TOMATO CLINIC&amp;quot;.&lt;/p&gt;&#xA;&lt;p&gt;These tracks are made by YAMAHA MU90 MIDI sound module.&lt;br&gt;&#xA;This was often used in the mid 90s to early 2000s for low budget pop music in Japan. I&amp;apos;m also conscious of it on this soundtrack.&lt;/p&gt;&#xA;&lt;p&gt;TOMATO CLINIC is a visual novel about going on a tour at a vampire blood donation clinic.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/tomato-clinic-original-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=2539146973/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>Space Invaders 90</title>
+      <link>https://www.taito.co.jp/mob/0000400142</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/spaceinvaders90/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>1990</title>
+      <link>https://x.com/tenich_ym2151/status/1231591036398391297</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/1990album/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>sdhizumi Reworks Volume.1</title>
+      <link>https://sdhizumi.com/ja/works/sdhizumireworksvolume1/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/sdhizumireworksvolume1/</guid>
+      <description>[RELEASE] M3-2020 Spring - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/sdhizumireworksv1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;apos;s a self-remix album.&lt;br&gt;&#xA;Original tracks are selected from those I made between 2012-2014.&lt;br&gt;&#xA;(Mainly from &amp;quot;Handy Rave Machine&amp;quot; album. I was a beginner.)&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/sdhizumi-reworks-volume-1&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=632210096/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/1894555&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>Cool Chiptune VS Cute Chiptune Battle Complation -Cool side-</title>
+      <link>https://novtos.bandcamp.com/album/vs-cool-side</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/chipvscutecool/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>ESP RA.DE. Ψ</title>
+      <link>https://m2stg.com/esprade/index.php</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/espradepsyost/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>ESP RA.DE. Ψ Original Soundtrack</title>
+      <link>https://m2stg.com/esprade/index.php</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/espradepsyost/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>spring leaves no flowers Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/springleavesnoflowersost/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/springleavesnoflowersost/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/springleavesnoflowers.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Original soundtrack for the visual novel &amp;quot;spring leaves no flowers&amp;quot;.&lt;/p&gt;&#xA;&lt;p&gt;&amp;quot;spring leaves no flowers&amp;quot; is a visual novel. Help Manami come to an understanding about herself as she thinks about what friendship and romance mean to her.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/spring-leaves-no-flowers-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=3930837696/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>CyberDrugMonsterSubspecies</title>
+      <link>https://kire001cdms.tumblr.com/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/cyberdrugmonstersubspecies/</guid>
+      <description>[COMMISSION] Remix</description>
+      
+    </item>
+    <item>
+      <title>Lo-bit Speedcore SubTotal Vol.004</title>
+      <link>https://kial010.tumblr.com/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/cyberdrugmonstersubspecies/</guid>
+      <description>[COMMISSION] Remix</description>
+      
+    </item>
+    <item>
+      <title>HARDCORE GAMERS!!</title>
+      <link>https://mgsp-002.tumblr.com/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/hardcoregamers/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>Square Sounds Tokyo 2019 Post Party</title>
+      <link>https://x.com/Square_sounds/status/1172513966423080960</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/squaresoundstokyo2019post/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Light Bit Salon Vol.1</title>
+      <link>https://twipla.jp/events/389221</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/lightbitsalon1/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>last day of spring Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/lastdayofspringost/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/lastdayofspringost/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/lastdayofspring.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Original soundtrack for the visual novel &amp;quot;last day of spring&amp;quot;.&lt;/p&gt;&#xA;&lt;p&gt;&amp;quot;last day of spring&amp;quot; is a visual novel. Play as Erika, a university student, and join her as she plans a spa day for her transgender friend Haru.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/last-day-of-spring-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=159364528/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>Pump Up Your Soul</title>
+      <link>https://sdhizumi.com/ja/works/pumpupyoursoul/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/pumpupyoursoul/</guid>
+      <description>[RELEASE] M3-2019 Spring - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/pumpupyoursoul.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Chiptune meets Happy Hardcore!!&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/pump-up-your-soul&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=125837581/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/1894538&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>Tokyo Sandbox 2019 (Day 2)</title>
+      <link>https://x.com/sdhizumi/status/1105344695956205568</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/tokyosandbox2019/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES OutRun -Music Collection-</title>
+      <link>https://archives.sega.jp/segaages/news/190207.shtml</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesoutrunmusiccollection/</guid>
+      <description>[IN-HOUSE] Arrange</description>
+      
+    </item>
+    <item>
+      <title>Darius Cozmic Collection</title>
+      <link>https://darius.jp/cozmic/index.html</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dariuscozmiccollectionps4/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Light Chiptune VS Dark Chiptune Battle Complation -Dark Side-</title>
+      <link>https://novtos.bandcamp.com/album/vs-dark-side</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/chipvslightdark2/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>Darius Cozmic Collection</title>
+      <link>https://darius.jp/cozmic/index.html</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dariuscozmiccollection/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Sagaia</title>
+      <link>https://darius.jp/cozmic/index.html</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/sagaia/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>黄金湯</title>
+      <link>https://x.com/sdhizumi/status/1075761533794148353</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/ougontou/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>FAMICOLLE STEINS;GATE Original Soundtrack</title>
+      <link>https://x.com/kagakuadv/status/1078223477738430464</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/famicollesteinsgateost/</guid>
+      <description>[IN-HOUSE] Recording</description>
+      
+    </item>
+    <item>
+      <title>Pico*2 Magic Canvas! 2</title>
+      <link>https://twvt.me/MAGICAN02</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/pico2magiccanvasevent2/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>We&#39;re The &#34;MAGI-CAN!&#34;</title>
+      <link>https://mgsp-002.tumblr.com/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/werethemagican/</guid>
+      <description>[COMMISSION] Compose, Mastering</description>
+      
+    </item>
+    <item>
+      <title>ROMFEST</title>
+      <link>https://x.com/yukkerom/status/1051458011087040514</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/romfest/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>lilac &amp; her light Soundtrack</title>
+      <link>https://sdhizumi.com/ja/works/lilacandherlightost/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/lilacandherlightost/</guid>
+      <description>[SOUNDTRACK] &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/lilacandherlight.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Not club music. Not chip music. But this is one of my music definitely.&lt;/p&gt;&#xA;&lt;p&gt;This is the soundtrack of the game &amp;quot;lilac &amp;amp; her light&amp;quot;.&lt;/p&gt;&#xA;&lt;p&gt;I wrote ambient / healing /easy listning style music after some years.&lt;br&gt;&#xA;The game is short, but cute and beautiful story. I hope you will play this game!&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/lilac-her-light-soundtrack&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=3174883937/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+    <item>
+      <title>Colorized Dots</title>
+      <link>https://sdhizumi.com/ja/works/colorizeddots/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/colorizeddots/</guid>
+      <description>[RELEASE] M3-2018 Autumn - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/colorizeddots.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Electronic house and techno on LSDj.&lt;br&gt;&#xA;This is my first album that use modded GBC.&lt;br&gt;&#xA;It includes 5 tracks.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/colorized-dots&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=29704833/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/1894507&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>CHIP &#39;N&#39; ROLL</title>
+      <link>https://x.com/sdhizumi/status/1028572102142582784</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/chipnroll/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Square Sounds Tokyo 2018 Pre-Party</title>
+      <link>https://x.com/Square_sounds/status/1036742325626523648</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/squaresoundstokyo2018pre/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>yurutune lounge 2</title>
+      <link>https://twipla.jp/events/309014</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/yurutune2/</guid>
+      <description>[LIVE/DJ] Organize (with npckc), Live Set</description>
+      
+    </item>
+    <item>
+      <title>DDDD Vol23 ADIOS AKIHABARA</title>
+      <link>https://iflyer.tv/event/302942/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dddd23/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Inverted Negative</title>
+      <link>https://sdhizumi.com/ja/works/invertednegative/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/invertednegative/</guid>
+      <description>[RELEASE] M3-2018 Spring - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/invertednegative.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I was came back to photography in last Fall.&lt;br&gt;&#xA;This album is inspired my experience by photography.&lt;br&gt;&#xA;It includes 5 tracks.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/inverted-negative&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=1532815992/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/887802&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>Tokyo Sandbox 2018 (Day 1)</title>
+      <link>https://x.com/sdhizumi/status/981135973588205570</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/tokyosandbox2018/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>BleepLove Volume Six</title>
+      <link>https://bleeplove.bandcamp.com/album/bleeplove-volume-six</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/bleeplove6/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>Lo-Bit Freedom Vol.5</title>
+      <link>https://lo-bit-freedom.connpass.com/event/74205/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/lobitfreedom5/</guid>
+      <description>[LIVE/DJ] Live Set (B2B with Uraboroshi)</description>
+      
+    </item>
+    <item>
+      <title>Minimal Chip</title>
+      <link>https://sdhizumi.com/ja/works/minimalchip/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/minimalchip/</guid>
+      <description>[RELEASE] M3-2017 Autumn - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/minimalchip.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This album&amp;apos;s theme is minimal electronica.&lt;br&gt;&#xA;It includes 5 tracks.&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/minimal-chip&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=355292421/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/676883&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>SDHIZUMIX VOL.01 - BITRAVE.GB</title>
+      <link>https://sdhizumi.com/ja/works/sdhizumixvol01/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/sdhizumixvol01/</guid>
+      <description>[RELEASE] Square Sounds Tokyo 2017 - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/sdhizumixvol01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ADD DISCRIPTIONS&lt;/p&gt;&#xA;&lt;!-- https://x.com/sdhizumi/status/906518217463435264 --&gt;</description>
+      
+    </item>
+    <item>
+      <title>Square Sounds Tokyo 2017</title>
+      <link>https://x.com/Square_sounds/status/892164299958833155</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/squaresoundstokyo2017/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Pico*2 Magic Canvas! 1</title>
+      <link>https://twvt.me/MAGICAN01</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/pico2magiccanvasevent1/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>HYPER STRiKE SESSION 02</title>
+      <link>https://x.com/HYPER_STRiKE_/status/857584620660899840</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/hyperstrikesession02/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>GO LIKE WEIRD! -Raw! Wildest!-</title>
+      <link>https://x.com/sdhizumi/status/865498389621874688</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/squaresoundstokyo2017/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Hardchip Raver</title>
+      <link>https://sdhizumi.com/ja/works/hardchipraver/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/hardchipraver/</guid>
+      <description>[RELEASE] M3-2017 Spring - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/hardchipraver.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Chiptune Hardcore Techno Album (composed on Gameboy / DMG)&lt;br&gt;&#xA;The album include 5 hardcore techno style chiptune tracks!&lt;br&gt;&#xA;Rave on! Rave on!&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/hardchip-raver&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=3256421935/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/505102&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>yurutune lounge</title>
+      <link>https://twipla.jp/events/228552</link>
+      <pubDate>Sun, 18 Dec 2016 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/yurutune2/</guid>
+      <description>[LIVE/DJ] Organize (with npckc), Live Set</description>
+      
+    </item>
+    <item>
+      <title>Chip In Da House</title>
+      <link>https://sdhizumi.com/ja/works/chipindahouse/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/chipindahouse/</guid>
+      <description>[RELEASE] M3-2016 Autumn - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/chipindahouse.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Chiptune House Album (composed on Gameboy / DMG)&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/chip-in-da-house&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=1929985205/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/366239&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>Square Sounds Tokyo 2016 Pre Party</title>
+      <link>https://x.com/sdhizumi/status/773693555306995712</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/squaresoundstokyo2016/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>DDDD Vol11</title>
+      <link>https://iflyer.tv/event/270203/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dddd11/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Lo-Bit Freedom Ver.4</title>
+      <link>https://lo-bit-freedom.connpass.com/event/33389/</link>
+      <pubDate>Sat, 25 Jun 2016 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/lobitfreedom4/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>VIBES ENGINE</title>
+      <link>https://twipla.jp/events/206092</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/vibesengine/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>STUDENT RAVERS UNITED!! with Unexpected Downpour</title>
+      <link>https://iflyer.tv/event/256187/</link>
+      <pubDate>Sun, 13 Mar 2016 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/srundo/</guid>
+      <description>[LIVE/DJ] DJ Set</description>
+      
+    </item>
+    <item>
+      <title>風 (Day 2)</title>
+      <link>https://www.facebook.com/events/1554996528148908/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/kaze/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Lo-Bit Freedom Vol.2</title>
+      <link>https://lo-bit-freedom.connpass.com/event/23923/</link>
+      <pubDate>Sat, 26 Dec 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/lobitfreedom2/</guid>
+      <description>[LIVE/DJ] Live Set (B2B with many artists)</description>
+      
+    </item>
+    <item>
+      <title>DUGEM BAYANGAN (2015/12/12)</title>
+      <link>https://aoyama-hachi.net/schedule/2015/12/12/dugem-bayangan-9/</link>
+      <pubDate>Sat, 12 Dec 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/srundo/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>WCS &amp; Music inn 早稲田祭 (Day 1)</title>
+      <link>https://x.com/sdhizumi/status/659359876301217792</link>
+      <pubDate>Sat, 07 Nov 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/wcsmusicinn2015fest/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Rave It Loud</title>
+      <link>https://sdhizumi.com/ja/works/raveitloud/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/raveitloud/</guid>
+      <description>[RELEASE] M3-2015 Autumn - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/raveitloud.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Chiptune Rave, Hyper Techno, Hi-NRG, House Album (composed on Gameboy / DMG)&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/rave-it-loud&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=2898570200/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/366264&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>Parareco Festa</title>
+      <link>https://www.facebook.com/events/484432915068177/</link>
+      <pubDate>Sat, 24 Oct 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/pararecofesta/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>DDDD Vol.1</title>
+      <link>https://www.facebook.com/events/1682782481951009/</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dddd01/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>WakoRave!! Presents STUDENT RAVERS UNITED!! -1st Anniversary-</title>
+      <link>https://iflyer.tv/en/event/243865/</link>
+      <pubDate>Sat, 12 Sep 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/sru1stanniv/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Lo-Bit Freedom</title>
+      <link>https://lo-bit-freedom.connpass.com/event/17967/</link>
+      <pubDate>Fri, 14 Aug 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/lobitfreedom/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>WCS 2015 Summer</title>
+      <link>https://wcsweb.bandcamp.com/album/wcs-2015-summer</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/wcssummer2015/</guid>
+      <description>[COMMISSION] Compose</description>
+      
+    </item>
+    <item>
+      <title>Arbor Day</title>
+      <link>https://x.com/wcs_web/status/593296960901099520</link>
+      <pubDate>Sun, 10 May 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/arborday/</guid>
+      <description>[LIVE/DJ] Live Set</description>
+      
+    </item>
+    <item>
+      <title>Dot Matrix With Raving Sound</title>
+      <link>https://sdhizumi.com/ja/works/dotmatrixwithravingsound/</link>
+      <pubDate>Sun, 26 Apr 2015 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dotmatrixwithravingsound/</guid>
+      <description>[RELEASE] M3-2015 Spring - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/dotmatrixwithravingsound.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Chiptune Rave, Hyper Techno, UK Hardcore Album (composed on Gameboy / DMG)&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/dot-matrix-with-raving-sound&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=1260487102/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/372100&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>Handy Rave Machine</title>
+      <link>https://sdhizumi.com/ja/works/handyravemachine/</link>
+      <pubDate>Sun, 26 Oct 2014 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/handyravemachine/</guid>
+      <description>[RELEASE] M3-2014 Autumn - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/handyravemachine.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Chiptune Rave, Hyper Techno, UK Hardcore Album (composed on Gameboy / DMG)&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.bandcamp.com/album/handy-rave-machine&#39;&gt;&lt;i&#xA;          class=&#34;si si-bandcamp&#34;&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Bandcamp&lt;/div&gt;&#xA;&lt;/a&gt;&lt;iframe style=&#39; border: 0; width: 100%; height: 120px;&#39;&#xA;     src=&#39;https://bandcamp.com/EmbeddedPlayer/album=1423695257/size=large/bgcol=FFFFFF/linkcol=ffc700/tracklist=false/artwork=small/transparent=true/&#39;&#xA;     seamless&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/372111&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
+    <item>
+      <title>Unexpected Downpour 02</title>
+      <link>https://x.com/sdhizumi/status/546153639044071424</link>
+      <pubDate>Thu, 20 Feb 2014 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/undo02/</guid>
+      <description>[LIVE/DJ] DJ Set</description>
+      
+    </item>
+    <item>
+      <title>sdhizumi Hardcore EP Vol.2</title>
+      <link>https://sdhizumi.com/ja/works/sdhizumihardcoreepvol2/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/sdhizumihardcoreepvol2/</guid>
+      <description>[RELEASE] M3-2013 Spring - &lt;p&gt;&lt;img src=&#34;https://sdhizumi.com/img/works/sdhizumihardcoreepvol2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;UKハードコアのオリジナル作品です。&lt;/p&gt;&#xA;&lt;a class=&#34;embed-link&#34; href=&#39;https://sdhizumi.booth.pm/items/372117&#39;&gt;&lt;i&#xA;          class=&#34;bi bi-cart-fill&#34;&gt;&lt;/i&gt;&lt;/i&gt;&#xA;     &lt;div&gt;Booth&lt;/div&gt;&#xA;&lt;/a&gt;</description>
+      
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Steam on sdhizumi</title>
+    <link>https://sdhizumi.com/ja/platform/steam/</link>
+    <description>Recent content in Steam on sdhizumi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>© sdhizumi</copyright>
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://sdhizumi.com/ja/platform/steam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradius Origins</title>
+      <link>https://www.konami.com/games/gradius/us/en/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/gradiusorigins/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Operation Night Strikers</title>
+      <link>https://www.taito.co.jp/opstrikers</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/operationnightstrikers/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Metal Gear Solid (Master Collection Version)</title>
+      <link>https://www.konami.com/mg/mc/us/en/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/mgscollectionmgs/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Metal Gear Solid Master Collection Vol.1 Bonus Content</title>
+      <link>https://www.konami.com/mg/mc/us/en/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/mgscollectionbonus/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Ray&#39;z Arcade Chronology</title>
+      <link>https://www.taito.co.jp/rayzarcadechronology</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/rayzarcadechronology/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>G-Darius HD</title>
+      <link>https://darius.jp/revelation/index.html</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/gdariushd/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>Darius Cozmic Collection Arcade</title>
+      <link>https://darius.jp/cozmic/index.html</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/dariuscozmiccollectionarcade/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+  </channel>
+</rss>
