@@ -149,6 +149,18 @@ div#navlinks-mobile {
 /* changes for small screen */
 @media screen and (max-width: 600px) {
 
+    /* images can be wider */
+    #main-content img:not(.gallery-img) {
+        max-width: 100%;
+    }
+
+    /* featured images fill*/
+    div.gallery img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover;
+    }
+
     /* change header size */
     div#header {
         padding: 15px 15px;
