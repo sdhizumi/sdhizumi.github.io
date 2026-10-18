@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sdhizumi.com/ja/</loc>
-    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
+    <lastmod>2026-10-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/works/</loc>
-    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
+    <lastmod>2026-10-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -43,8 +43,22 @@
                 href="https://sdhizumi.com/ja/contact/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/ja/works/baysideraveep/</loc>
+    <lastmod>2026-10-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/baysideraveep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/baysideraveep/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/ja/platform/dl/</loc>
-    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
+    <lastmod>2026-10-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -58,7 +72,7 @@
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/platform/dlcard/</loc>
-    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
+    <lastmod>2026-10-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -72,7 +86,7 @@
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/platform/</loc>
-    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
+    <lastmod>2026-10-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -86,7 +100,7 @@
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/tag/release/</loc>
-    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
+    <lastmod>2026-10-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -100,7 +114,7 @@
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/tag/</loc>
-    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
+    <lastmod>2026-10-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -111,6 +125,174 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://sdhizumi.com/ja/tag/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/tag/livedj/</loc>
+    <lastmod>2026-10-18T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/tag/livedj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/tag/livedj/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/pixelartpark9/</loc>
+    <lastmod>2026-10-18T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/pixelartpark9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/pixelartpark9/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/tag/commission/</loc>
+    <lastmod>2026-10-16T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/tag/commission/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/tag/commission/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/undercommons2/</loc>
+    <lastmod>2026-10-16T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/undercommons2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/undercommons2/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/hardcoregamers2assalt/</loc>
+    <lastmod>2026-10-11T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/hardcoregamers2assalt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/hardcoregamers2assalt/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/tag/soundtrack/</loc>
+    <lastmod>2026-07-13T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/tag/soundtrack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/tag/soundtrack/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/truelovescurseost/</loc>
+    <lastmod>2026-07-13T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/truelovescurseost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/truelovescurseost/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/after8/</loc>
+    <lastmod>2026-04-24T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/after8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/after8/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/bumpytrain/</loc>
+    <lastmod>2025-12-13T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/bumpytrain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/bumpytrain/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/platform/demoscene/</loc>
+    <lastmod>2025-12-13T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/platform/demoscene/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/platform/demoscene/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/platform/cd/</loc>
+    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/platform/cd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/platform/cd/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/magicansholiday2/</loc>
+    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/magicansholiday2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/magicansholiday2/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/works/thirtyfifteen/</loc>
@@ -127,18 +309,18 @@
                 href="https://sdhizumi.com/ja/works/thirtyfifteen/"
                 />
   </url><url>
-    <loc>https://sdhizumi.com/ja/tag/commission/</loc>
-    <lastmod>2025-08-14T00:00:00+09:00</lastmod>
+    <loc>https://sdhizumi.com/ja/works/drawtokyo3/</loc>
+    <lastmod>2025-10-12T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://sdhizumi.com/tag/commission/"
+                href="https://sdhizumi.com/works/drawtokyo3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/tag/commission/"
+                href="https://sdhizumi.com/ja/works/drawtokyo3/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/platform/music/</loc>
@@ -167,20 +349,6 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://sdhizumi.com/ja/works/yoshifumiannjingles/"
-                />
-  </url><url>
-    <loc>https://sdhizumi.com/ja/platform/cd/</loc>
-    <lastmod>2025-08-07T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/platform/cd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/platform/cd/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/works/gradiusorigins/</loc>
@@ -293,20 +461,6 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://sdhizumi.com/ja/works/operationnightstrikers/"
-                />
-  </url><url>
-    <loc>https://sdhizumi.com/ja/tag/livedj/</loc>
-    <lastmod>2025-08-03T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/tag/livedj/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/tag/livedj/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/works/paintyourmagicthemeofmagican/</loc>
@@ -463,20 +617,6 @@
                 href="https://sdhizumi.com/ja/works/marronsdayost/"
                 />
   </url><url>
-    <loc>https://sdhizumi.com/ja/tag/soundtrack/</loc>
-    <lastmod>2024-11-28T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/tag/soundtrack/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/tag/soundtrack/"
-                />
-  </url><url>
     <loc>https://sdhizumi.com/ja/works/pico2magiccanvasevent3/</loc>
     <lastmod>2024-11-10T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -559,6 +699,20 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://sdhizumi.com/ja/works/tobekontinued11/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/m8fest/</loc>
+    <lastmod>2024-09-07T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/m8fest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/m8fest/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/works/m8festcompilation/</loc>
@@ -1021,6 +1175,20 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://sdhizumi.com/ja/works/bleepbittechnique/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/hybridized/</loc>
+    <lastmod>2022-04-24T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/hybridized/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/hybridized/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/works/alestecollectionmusicalbum/</loc>

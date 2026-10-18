@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Demoscene on sdhizumi</title>
+    <link>https://sdhizumi.com/ja/platform/demoscene/</link>
+    <description>Recent content in Demoscene on sdhizumi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>© sdhizumi</copyright>
+    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://sdhizumi.com/ja/platform/demoscene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bumpy Train</title>
+      <link>https://sdhizumi.com/ja/works/bumpytrain/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/bumpytrain/</guid>
+      <description>[RELEASE] SESSIONS 2025 music compo - &lt;p&gt;4x4 UKG on LSDj (GameBoy).&lt;/p&gt;&#xA;&lt;p&gt;This song was submitted to SESSIONS 2025 (demoscene party in Japan), got the 1st place in the music competition, also got a special award.&lt;/p&gt;&#xA;&lt;p&gt;scene.org: &lt;a href=&#34;https://files.scene.org/view/parties/2025/sessions25/music/sessions2025_music_sdhizumi_bumpy-train_audio_video.zip&#34;&gt;https://files.scene.org/view/parties/2025/sessions25/music/sessions2025_music_sdhizumi_bumpy-train_audio_video.zip&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/1G6WpE1JgNo?si=FN-D1EJp-Dw8vaJF&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+      
+    </item>
+  </channel>
+</rss>
