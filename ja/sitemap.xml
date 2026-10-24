@@ -127,6 +127,48 @@
                 href="https://sdhizumi.com/ja/tag/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/ja/platform/cd/</loc>
+    <lastmod>2026-10-24T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/platform/cd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/platform/cd/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/tag/commission/</loc>
+    <lastmod>2026-10-24T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/tag/commission/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/tag/commission/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/ja/works/undercommons2-cd/</loc>
+    <lastmod>2026-10-24T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/undercommons2-cd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/undercommons2-cd/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/ja/tag/livedj/</loc>
     <lastmod>2026-10-18T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -153,34 +195,6 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://sdhizumi.com/ja/works/pixelartpark9/"
-                />
-  </url><url>
-    <loc>https://sdhizumi.com/ja/tag/commission/</loc>
-    <lastmod>2026-10-16T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/tag/commission/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/tag/commission/"
-                />
-  </url><url>
-    <loc>https://sdhizumi.com/ja/works/undercommons2/</loc>
-    <lastmod>2026-10-16T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/works/undercommons2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/works/undercommons2/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/works/hardcoregamers2assalt/</loc>
@@ -265,20 +279,6 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://sdhizumi.com/ja/platform/demoscene/"
-                />
-  </url><url>
-    <loc>https://sdhizumi.com/ja/platform/cd/</loc>
-    <lastmod>2025-10-26T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/platform/cd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/platform/cd/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/ja/works/magicansholiday2/</loc>
