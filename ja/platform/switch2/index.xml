@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Switch2 on sdhizumi</title>
+    <link>https://sdhizumi.com/ja/platform/switch2/</link>
+    <description>Recent content in Switch2 on sdhizumi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>© sdhizumi</copyright>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://sdhizumi.com/ja/platform/switch2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metal Gear Solid Master Collection Vol.2 Bonus Content</title>
+      <link>https://www.konami.com/mg/mc2/us/en/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/mgscollection2bonus/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+  </channel>
+</rss>

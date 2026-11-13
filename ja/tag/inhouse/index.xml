@@ -7,8 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>© sdhizumi</copyright>
-    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://sdhizumi.com/ja/tag/inhouse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metal Gear Solid Master Collection Vol.2 Bonus Content</title>
+      <link>https://www.konami.com/mg/mc2/us/en/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/mgscollection2bonus/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
     <item>
       <title>Gradius Origins</title>
       <link>https://www.konami.com/games/gradius/us/en/</link>
@@ -95,6 +103,14 @@
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0900</pubDate>
       <guid>https://sdhizumi.com/ja/works/segaarchivesm2musicmemorial/</guid>
       <description>[IN-HOUSE] Arrange</description>
+      
+    </item>
+    <item>
+      <title>Assault Suits Valken Declassified</title>
+      <link>https://www.rainmaker-pro.com/jp/games/valken/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/valkendeclassified/</guid>
+      <description>[IN-HOUSE] Sound Engineer</description>
       
     </item>
     <item>
@@ -194,11 +210,43 @@
       
     </item>
     <item>
+      <title>SEGA AGES Herzog Zwei</title>
+      <link>https://archives.sega.jp/segaages/hz/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesherzogzwei/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Thunder Force AC</title>
+      <link>https://archives.sega.jp/segaages/tfac/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagestfac/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES G-Loc Air Battle</title>
+      <link>https://archives.sega.jp/segaages/g-loc/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesgloc/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
       <title>Space Invaders 90</title>
       <link>https://www.taito.co.jp/mob/0000400142</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0900</pubDate>
       <guid>https://sdhizumi.com/ja/works/spaceinvaders90/</guid>
       <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Sonic The Hedgehog 2</title>
+      <link>https://archives.sega.jp/segaages/sonic2/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagessonic2/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
       
     </item>
     <item>
@@ -215,6 +263,70 @@
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0900</pubDate>
       <guid>https://sdhizumi.com/ja/works/espradepsyost/</guid>
       <description>[IN-HOUSE] Sound Engineer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Fantasy Zone</title>
+      <link>https://archives.sega.jp/segaages/fz/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesfantasyzone/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Shinobi</title>
+      <link>https://archives.sega.jp/segaages/shinobi/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesshinobi/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Ichidant R</title>
+      <link>https://archives.sega.jp/segaages/ichidant-r/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesichidantr/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Columns II</title>
+      <link>https://archives.sega.jp/segaages/columns2/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagescolumns2/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Space Harrier</title>
+      <link>https://archives.sega.jp/segaages/sh/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesspaceharrier/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Virtua Racing</title>
+      <link>https://archives.sega.jp/segaages/vr/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesvirtuaracing/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Wonder Boy Monster Land</title>
+      <link>https://archives.sega.jp/segaages/ml/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaageswonderboyml/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Puyo Puyo</title>
+      <link>https://archives.sega.jp/segaages/puyo/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagespuyo/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
       
     </item>
     <item>
@@ -250,11 +362,67 @@
       
     </item>
     <item>
+      <title>SEGA AGES Phantasy Star</title>
+      <link>https://archives.sega.jp/segaages/ps/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesphantasystar/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Alex Kidd in Miracle World</title>
+      <link>https://archives.sega.jp/segaages/ak/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesalexkiddm/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Puyo Puyo 2</title>
+      <link>https://archives.sega.jp/segaages/puyo2/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagespuyo2/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
       <title>FAMICOLLE STEINS;GATE Original Soundtrack</title>
       <link>https://x.com/kagakuadv/status/1078223477738430464</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0900</pubDate>
       <guid>https://sdhizumi.com/ja/works/famicollesteinsgateost/</guid>
       <description>[IN-HOUSE] Recording</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Gain Ground</title>
+      <link>https://archives.sega.jp/segaages/gg/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesgeinground/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Out Run</title>
+      <link>https://archives.sega.jp/segaages/outrun/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagesoutrun/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Sonic the Hedgehog</title>
+      <link>https://archives.sega.jp/segaages/sonic/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagessonic/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
+      
+    </item>
+    <item>
+      <title>SEGA AGES Thunder Force IV</title>
+      <link>https://archives.sega.jp/segaages/tf4/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0900</pubDate>
+      <guid>https://sdhizumi.com/ja/works/segaagestf4/</guid>
+      <description>[IN-HOUSE] Sound Designer</description>
       
     </item>
   </channel>

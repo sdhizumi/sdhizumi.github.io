@@ -211,6 +211,104 @@
                 href="https://sdhizumi.com/works/hardcoregamers2assalt/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/tag/inhouse/</loc>
+    <lastmod>2026-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/tag/inhouse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/tag/inhouse/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/mgscollection2bonus/</loc>
+    <lastmod>2026-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/mgscollection2bonus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/mgscollection2bonus/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/platform/ps5/</loc>
+    <lastmod>2026-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/platform/ps5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/platform/ps5/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/platform/steam/</loc>
+    <lastmod>2026-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/platform/steam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/platform/steam/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/platform/switch/</loc>
+    <lastmod>2026-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/platform/switch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/platform/switch/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/platform/switch2/</loc>
+    <lastmod>2026-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/platform/switch2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/platform/switch2/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/platform/xsx/</loc>
+    <lastmod>2026-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/platform/xsx/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/platform/xsx/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/tag/soundtrack/</loc>
     <lastmod>2026-07-13T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -365,34 +463,6 @@
                 href="https://sdhizumi.com/works/gradiusorigins/"
                 />
   </url><url>
-    <loc>https://sdhizumi.com/tag/inhouse/</loc>
-    <lastmod>2025-08-07T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/tag/inhouse/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/tag/inhouse/"
-                />
-  </url><url>
-    <loc>https://sdhizumi.com/platform/ps5/</loc>
-    <lastmod>2025-08-07T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/platform/ps5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/platform/ps5/"
-                />
-  </url><url>
     <loc>https://sdhizumi.com/works/salamanderiiiost/</loc>
     <lastmod>2025-08-07T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -405,48 +475,6 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://sdhizumi.com/works/salamanderiiiost/"
-                />
-  </url><url>
-    <loc>https://sdhizumi.com/platform/steam/</loc>
-    <lastmod>2025-08-07T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/platform/steam/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/platform/steam/"
-                />
-  </url><url>
-    <loc>https://sdhizumi.com/platform/switch/</loc>
-    <lastmod>2025-08-07T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/platform/switch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/platform/switch/"
-                />
-  </url><url>
-    <loc>https://sdhizumi.com/platform/xsx/</loc>
-    <lastmod>2025-08-07T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://sdhizumi.com/ja/platform/xsx/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://sdhizumi.com/platform/xsx/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/works/operationnightstrikers/</loc>
@@ -995,6 +1023,20 @@
                 href="https://sdhizumi.com/works/denkishock2/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/works/valkendeclassified/</loc>
+    <lastmod>2023-03-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/valkendeclassified/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/valkendeclassified/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/works/atavernforteaost/</loc>
     <lastmod>2023-03-24T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1499,6 +1541,20 @@
                 href="https://sdhizumi.com/works/internetchiptunemaniac1/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/works/segaagesherzogzwei/</loc>
+    <lastmod>2020-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesherzogzwei/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesherzogzwei/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/works/getrightdown/</loc>
     <lastmod>2020-07-03T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1527,6 +1583,20 @@
                 href="https://sdhizumi.com/works/aletterofchallengeost/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/works/segaagestfac/</loc>
+    <lastmod>2020-05-14T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagestfac/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagestfac/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/works/hikikomori/</loc>
     <lastmod>2020-04-23T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1553,6 +1623,20 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://sdhizumi.com/works/tomatoclinicoriginalsoundtrack/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagesgloc/</loc>
+    <lastmod>2020-03-26T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesgloc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesgloc/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/works/spaceinvaders90/</loc>
@@ -1611,6 +1695,20 @@
                 href="https://sdhizumi.com/works/chipvscutecool/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/works/segaagessonic2/</loc>
+    <lastmod>2020-02-13T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagessonic2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagessonic2/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/works/espradepsyost/</loc>
     <lastmod>2019-12-19T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1651,6 +1749,34 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://sdhizumi.com/works/springleavesnoflowersost/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagesfantasyzone/</loc>
+    <lastmod>2019-11-28T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesfantasyzone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesfantasyzone/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagesshinobi/</loc>
+    <lastmod>2019-10-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesshinobi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesshinobi/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/works/cyberdrugmonstersubspecies/</loc>
@@ -1695,6 +1821,20 @@
                 href="https://sdhizumi.com/works/hardcoregamers/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/works/segaagesichidantr/</loc>
+    <lastmod>2019-09-26T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesichidantr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesichidantr/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/works/squaresoundstokyo2019post/</loc>
     <lastmod>2019-09-23T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1709,6 +1849,20 @@
                 href="https://sdhizumi.com/works/squaresoundstokyo2019post/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/works/segaagescolumns2/</loc>
+    <lastmod>2019-08-08T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagescolumns2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagescolumns2/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/works/lightbitsalon1/</loc>
     <lastmod>2019-07-13T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1721,6 +1875,20 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://sdhizumi.com/works/lightbitsalon1/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagesspaceharrier/</loc>
+    <lastmod>2019-06-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesspaceharrier/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesspaceharrier/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/works/lastdayofspringost/</loc>
@@ -1751,6 +1919,34 @@
                 href="https://sdhizumi.com/works/pumpupyoursoul/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/works/segaagesvirtuaracing/</loc>
+    <lastmod>2019-04-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesvirtuaracing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesvirtuaracing/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaageswonderboyml/</loc>
+    <lastmod>2019-04-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaageswonderboyml/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaageswonderboyml/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/works/tokyosandbox2019/</loc>
     <lastmod>2019-04-07T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1763,6 +1959,20 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://sdhizumi.com/works/tokyosandbox2019/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagespuyo/</loc>
+    <lastmod>2019-03-28T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagespuyo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagespuyo/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/works/segaagesoutrunmusiccollection/</loc>
@@ -1835,6 +2045,34 @@
                 href="https://sdhizumi.com/works/sagaia/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/works/segaagesphantasystar/</loc>
+    <lastmod>2019-02-28T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesphantasystar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesphantasystar/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagesalexkiddm/</loc>
+    <lastmod>2019-02-21T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesalexkiddm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesalexkiddm/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/works/ougontou/</loc>
     <lastmod>2019-01-23T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1849,6 +2087,20 @@
                 href="https://sdhizumi.com/works/ougontou/"
                 />
   </url><url>
+    <loc>https://sdhizumi.com/works/segaagespuyo2/</loc>
+    <lastmod>2019-01-16T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagespuyo2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagespuyo2/"
+                />
+  </url><url>
     <loc>https://sdhizumi.com/works/famicollesteinsgateost/</loc>
     <lastmod>2018-12-29T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1861,6 +2113,20 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://sdhizumi.com/works/famicollesteinsgateost/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagesgeinground/</loc>
+    <lastmod>2018-12-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesgeinground/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesgeinground/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/works/pico2magiccanvasevent2/</loc>
@@ -1889,6 +2155,20 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://sdhizumi.com/works/werethemagican/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagesoutrun/</loc>
+    <lastmod>2018-11-29T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagesoutrun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagesoutrun/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/works/romfest/</loc>
@@ -1945,6 +2225,34 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://sdhizumi.com/works/chipnroll/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagessonic/</loc>
+    <lastmod>2018-09-20T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagessonic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagessonic/"
+                />
+  </url><url>
+    <loc>https://sdhizumi.com/works/segaagestf4/</loc>
+    <lastmod>2018-09-20T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://sdhizumi.com/ja/works/segaagestf4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://sdhizumi.com/works/segaagestf4/"
                 />
   </url><url>
     <loc>https://sdhizumi.com/works/squaresoundstokyo2018pre/</loc>
